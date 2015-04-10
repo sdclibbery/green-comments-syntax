@@ -1,0 +1,11 @@
+{
+  "name": "green-comments-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light coloured syntax theme where the comments are green",
+  "repository": "https://github.com/atom/green-comments-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
